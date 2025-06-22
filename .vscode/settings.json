@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+        "boto",
+        "botocore",
+        "cachetools",
+        "certifi",
+        "cffi",
+        "creds",
+        "dateutil",
+        "filelock",
+        "gitdb",
+        "hjixexz",
+        "idna",
+        "jmespath",
+        "jsonschema",
+        "Kumar",
+        "numpy",
+        "platformdirs",
+        "pyarrow",
+        "pycparser",
+        "pydeck",
+        "pytz",
+        "rpds",
+        "selectbox",
+        "smmap",
+        "Softude",
+        "sortedcontainers",
+        "streamlit",
+        "tomlkit",
+        "tzdata",
+        "urllib"
+    ]
+}
